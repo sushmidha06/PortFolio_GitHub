@@ -1,1 +1,7 @@
-
+- Hero (Animated intro: “Hi, I’m [Name], Full Stack & AI/ML Developer”)
+- About Me (bio, fun facts, location)
+- Skills (animated progress bars or bubbles)
+- Favorite Projects (interactive cards with animations)
+- LeetCode Progress (see above)
+- Achievements (badges, certificates, open source contributions)
+- Contact (animated form, social links)
